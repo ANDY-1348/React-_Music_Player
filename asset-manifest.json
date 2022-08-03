@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React_Music_Player/static/css/main.e9d29545.css",
+    "main.js": "/React_Music_Player/static/js/main.097d5662.js",
+    "static/js/787.c2652ce4.chunk.js": "/React_Music_Player/static/js/787.c2652ce4.chunk.js",
+    "static/media/Snake.mp3": "/React_Music_Player/static/media/Snake.3911316bcde343891202.mp3",
+    "static/media/Shana_Bann.mp3": "/React_Music_Player/static/media/Shana_Bann.6805248080d4cba9f15a.mp3",
+    "static/media/Basti_ka_Hasti.mp3": "/React_Music_Player/static/media/Basti_ka_Hasti.5c8c0b69824eeb02b4be.mp3",
+    "static/media/Bitch.mp3": "/React_Music_Player/static/media/Bitch.ae050e110c993f650dc6.mp3",
+    "static/media/Fuck_Love.mp3": "/React_Music_Player/static/media/Fuck_Love.d475138f377008410e49.mp3",
+    "static/media/background.jpg": "/React_Music_Player/static/media/background.8b16878b58cd04fe945c.jpg",
+    "static/media/insaan.jpg": "/React_Music_Player/static/media/insaan.cdebcc84546ce6e09dc7.jpg",
+    "static/media/snake.jpg": "/React_Music_Player/static/media/snake.a3f3fbc086e64dc43dba.jpg",
+    "static/media/ANDY.jpg": "/React_Music_Player/static/media/ANDY.09286e843a8ab5b5a9ff.jpg",
+    "static/media/shanaBann.jpg": "/React_Music_Player/static/media/shanaBann.ce6c9e5939b2bfe47773.jpg",
+    "static/media/insaan-banner.jpeg": "/React_Music_Player/static/media/insaan-banner.21c0c2ca41a04aa0dbbb.jpeg",
+    "static/media/logo.svg": "/React_Music_Player/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React_Music_Player/index.html",
+    "main.e9d29545.css.map": "/React_Music_Player/static/css/main.e9d29545.css.map",
+    "main.097d5662.js.map": "/React_Music_Player/static/js/main.097d5662.js.map",
+    "787.c2652ce4.chunk.js.map": "/React_Music_Player/static/js/787.c2652ce4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9d29545.css",
+    "static/js/main.097d5662.js"
+  ]
+}
